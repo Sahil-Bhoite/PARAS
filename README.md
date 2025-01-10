@@ -3,7 +3,8 @@
 ## Overview
 PARAS is a web-based assessment platform designed to evaluate technical skills, problem-solving abilities, and personality traits of candidates. The system presents various scenarios and questions across different domains including system performance, database optimization, security incident response, and team conflict resolution.
 
-![Capture-2025-01-10-195511](https://github.com/user-attachments/assets/3c20a101-e6ff-44a4-a683-58cfcc6b39e0)
+
+<img width="1552" alt="Screenshot 2025-01-10 at 7 56 23 PM" src="https://github.com/user-attachments/assets/bc5506d0-003d-4fc4-88f2-59482dbd7a3a" />
 
 ## Features
 - Technical scenario-based assessments
